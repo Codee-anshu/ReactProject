@@ -1,0 +1,27 @@
+*{
+    margin: 0%;padding: 0%;box-sizing: border-box;
+}
+body{
+    background-color: cornflowerblue;
+}
+.content{
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+h1{
+ text-align: center;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px ;
+    border: none;
+    background-color: darkcyan;
+    color: white;
+}
