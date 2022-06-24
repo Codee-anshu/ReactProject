@@ -1,13 +1,12 @@
 import React from "react";
-import Hooks from "./components/Hooks/Hooks"
-import Greeting from "./components/Greetings/Greeting"
+import Clock from "./components/digitalclock/Clock";
+
  
 
 function App() {
     return (
         <>
-        <Greeting/>
-          
+          <Clock/>
         </>
     );
 }
